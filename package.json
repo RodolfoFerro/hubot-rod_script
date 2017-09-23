@@ -1,0 +1,27 @@
+{
+  "name": "hubot-rod_script",
+  "version": "1.0.0",
+  "description": "Script that comsumes the Pokéapi to return Pokémon info. This also can list a user's public repos and show the last xkcd comic. (And more...)",
+  "main": "hubot-rod_script.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RodolfoFerro/hubot-rod_script.git"
+  },
+  "keywords": [
+    "hubot",
+    "script",
+    "pokedex",
+    "xkcd",
+    "github",
+    "repos"
+  ],
+  "author": "RodolfoFerro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RodolfoFerro/hubot-rod_script/issues"
+  },
+  "homepage": "https://github.com/RodolfoFerro/hubot-rod_script#readme"
+}
