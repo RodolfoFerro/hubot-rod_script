@@ -1,5 +1,8 @@
 # hubot-rod_script
 
+**UPDATE:**
+This is the actual link to the commits of the repo: https://github.com/RodolfoFerro/hubot-rod_script/commit/bb959bebc808a0bfa367a4b0a07f064aae0314ab 
+
 My personal Hubot script containing several functionalities.
 
 ```cofee
